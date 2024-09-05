@@ -1,0 +1,1 @@
+print('Neil deGrasse Tyson once said "The good thing about science is that it is true whether or not you believe in it."')
