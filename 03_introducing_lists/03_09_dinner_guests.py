@@ -1,0 +1,1 @@
+# added the len() function to 03_04_guest_list to count the guest number
