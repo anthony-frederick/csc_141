@@ -1,0 +1,1 @@
+# I changed 06_3_glossary to make it more readable
