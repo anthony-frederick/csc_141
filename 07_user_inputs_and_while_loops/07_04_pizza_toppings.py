@@ -1,4 +1,4 @@
-#cThis lets you choose toppings to be added to you pizza
+# This lets you choose toppings to be added to you pizza
 
 toppings = "\nEnter a topping to be added to your pizza:"
 toppings += "\nEnter quit if you are done choosing: "
