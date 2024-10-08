@@ -1,3 +1,5 @@
+# This poll asks people where they would want to go and prints it
+
 responses = {}
 polling_active = True
 while polling_active:
