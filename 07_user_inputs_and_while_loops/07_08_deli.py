@@ -1,3 +1,5 @@
+# This prints peoples sandwich orders and tells them they're being worked on
+
 sandwich_orders = ['turkey', 'ham', 'beef', 'chicken']
 finished_sandwiches = []
 while sandwich_orders:
