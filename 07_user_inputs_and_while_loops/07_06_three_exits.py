@@ -1,4 +1,4 @@
-
+# Gives you a ticket price based on age and can also be stopped
 
 ticket_price = input("Please enter your age: ")
 ticket_price += "Enter quit to stop the program"
