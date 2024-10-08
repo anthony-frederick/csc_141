@@ -1,3 +1,5 @@
+# This prints the costs of tickets depending on user ages
+
 ticket_price = input("Please enter your age: ")
 ticket_price = int(ticket_price)
 if ticket_price <= 3:
