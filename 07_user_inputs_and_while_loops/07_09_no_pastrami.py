@@ -1,3 +1,5 @@
+# This prints sandwiches again put not pastrami because we are out of it
+
 sandwich_orders = ['turkey', 'pastrami', 'ham', 'pastrami', 'beef', 'pastrami', 'chicken']
 finished_sandwiches = []
 print("Sorry, we are all out of pastrami for today.")
