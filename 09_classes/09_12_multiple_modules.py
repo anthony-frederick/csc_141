@@ -1,3 +1,5 @@
+# Shows privileges for an admin
+
 from privileges_admin_import import *
 from privileges_user_import import User
 
