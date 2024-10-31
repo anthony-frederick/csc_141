@@ -1,3 +1,5 @@
+# Shows some information about users and their login attempts
+
 class User:
     """Describes some people"""
     def __init__(self, first_name, last_name, age, gender, location):
