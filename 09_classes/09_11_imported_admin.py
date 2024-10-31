@@ -1,3 +1,4 @@
+# Shows the privileges of an admin and if the person is one or not
 
 from privileges_import import User
 from privileges_import import Admin
