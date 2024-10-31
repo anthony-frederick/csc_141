@@ -1,3 +1,5 @@
+# Gives some information about some poeple I know
+
 class User:
     """Describes some people"""
     def __init__(self, first_name, last_name, age, gender, location):
