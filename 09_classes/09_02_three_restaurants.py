@@ -1,3 +1,5 @@
+# Gives information about some restaurants
+
 class Restaurant:
     """Tells me some information about a restaurant"""
     def __init__(self, restaurant_name, cuisine_type):
