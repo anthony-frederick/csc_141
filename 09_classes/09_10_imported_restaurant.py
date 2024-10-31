@@ -1,4 +1,4 @@
-# 
+# Gives some information about mcdonalds
 
 from restaurant_import import Restaurant
 
