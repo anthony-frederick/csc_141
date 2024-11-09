@@ -1,0 +1,5 @@
+I learned in python :
+A python class can store a bunch of variables or attributes to be easily used
+An if then statement in python allows you to make a conditional statement
+You can use import to import things from other files or just things in VScode for python code
+Functions can be used to recall things in a code for easier use in python
